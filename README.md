@@ -22,7 +22,7 @@ especially on screens with low pixel density.
 ## Major changes
 
 Neep's 5x10 size is nearly perfect for this. It has only a few flaws (all of which
-are subjective, and might not be flaws from someone else's persepctive):
+are subjective, and might not be flaws from someone else's perspective):
 
 1. No bold face
 2. Non-slashed zero
