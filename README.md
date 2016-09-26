@@ -32,6 +32,7 @@ are subjective, and might not be flaws from someone else's perspective):
 6. Weird &
 7. Weird *
 
+
 So I fixed these issues. I'm mostly happy with the result; at least, it handily
 passes the 0OIl1 test in both bold and regular weights.
 
@@ -43,3 +44,7 @@ The bold face is totally ad-hoc, though, and looks somewhat more cartoonish than
 I'd like. Perhaps this is why there is no boldface Neep at this font size. Perhaps
 I'm just bad at designing these things. Oh well, it works fine for my purposes,
 since only about 1% of my terminal window is bolded at any given moment.
+
+## License
+
+Glean is released under version 3 of the GNU GPL.
