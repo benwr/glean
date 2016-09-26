@@ -47,4 +47,4 @@ since only about 1% of my terminal window is bolded at any given moment.
 
 ## License
 
-Glean is released under version 3 of the GNU GPL.
+Glean is released under version 3 of the GNU GPL, or any later version.
