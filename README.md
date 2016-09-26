@@ -1,7 +1,7 @@
 # Glean
 
-Glean is a bitmap font. It is 5x10 pixels. It is based on the 5x10 Neep font by
-Jim Knoble.
+Glean is a bitmap font. It is 5x10 pixels. It is based on the 5x10
+[Neep](https://github.com/nikolas/jmk-x11-fonts) font by Jim Knoble.
 
 ## Motivation
 
