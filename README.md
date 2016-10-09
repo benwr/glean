@@ -37,8 +37,7 @@ So I fixed these issues. I'm mostly happy with the result; at least, it handily
 passes the 0OIl1 test in both bold and regular weights.
 
 These are images of this README and some code, in regular and bold.
-![regular-weight](https://raw.githubusercontent.com/benwr/glean/master/regular.png)
-![bold-weight](https://raw.githubusercontent.com/benwr/glean/master/bold.png)
+![screenshot](https://raw.githubusercontent.com/benwr/glean/master/screenshot.png)
 
 The bold face is totally ad-hoc, though, and looks somewhat more cartoonish than
 I'd like. Perhaps this is why there is no boldface Neep at this font size. Perhaps
